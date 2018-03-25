@@ -1,0 +1,97 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AllureDate.com" resolutions="1x" timestamp="1522011475022">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4192479574" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4160603959" ref="index"/>
+    <file name="index.css" crc="367556770" ref="index"/>
+    <file name="nomq_index.css" crc="3929163291" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u308.php" crc="4078136928" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u486-4.png" crc="4273511857" ref="index"/>
+    <file name="u489-4.png" crc="365601609" ref="index"/>
+    <file name="icgift.png" crc="3796641812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u447-4.png" crc="4079572432" ref="index"/>
+    <file name="u444-4.png" crc="365601609" ref="index"/>
+    <file name="icletter.png" crc="301408401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icchat.png" crc="4082165208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u430-4.png" crc="319176357" ref="index"/>
+    <file name="u433-4.png" crc="365601609" ref="index"/>
+    <file name="img.jpg" crc="4110439972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u312.png" crc="247945387" ref="index"/>
+    <file name="u312-ferr.png" crc="4035193840" ref="index"/>
+    <file name="u315.png" crc="86730677" ref="index"/>
+    <file name="u315-r.png" crc="3923659624" ref="index"/>
+    <file name="u229-4.png" crc="4029027813" ref="index"/>
+    <file name="u202-4.png" crc="3947634036" ref="index"/>
+    <file name="u195-4.png" crc="469409547" ref="index"/>
+    <file name="logo.png" crc="3814640411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icpersonalmeetings.png" crc="506028797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icverifications.png" crc="116342061" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icprotection.png" crc="4178598441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u531-4.png" crc="4104535768" ref="index"/>
+    <file name="u560-4.png" crc="3909719087" ref="index"/>
+    <file name="u595-4.png" crc="3835877748" ref="index"/>
+    <file name="u528-4.png" crc="365601609" ref="index"/>
+    <file name="u563-4.png" crc="365601609" ref="index"/>
+    <file name="u592-4.png" crc="365601609" ref="index"/>
+    <file name="u669-4.png" crc="155087384" ref="index"/>
+    <file name="img-crop-u135.jpg" crc="210345363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="303419882" seo="true" mt="1522011085657" redirect="true"/>
+</manifest>
